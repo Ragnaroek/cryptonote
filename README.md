@@ -1,4 +1,4 @@
-# cryptonote
+# Cryptonote
 Rust Cryptonote implementation
 
 This implementation was used in [mithril](https://github.com/Ragnaroek/mithril) before it

@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Ragnaroek/cryptonote.svg?branch=main)](https://travis-ci.org/Ragnaroek/cryptonote)
+
 # Cryptonote
 Rust Cryptonote implementation
 

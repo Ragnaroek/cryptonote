@@ -1,0 +1,2 @@
+# cryptonote
+Rust Cryptonote implementation
